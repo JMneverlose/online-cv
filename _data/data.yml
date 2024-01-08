@@ -35,30 +35,22 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+       Hyeonwoo Park received the B.S. degree in Electrical Engineering in 2023 from Pohang University of Science and Technology (POSTECH), Pohang, South Korea. He is currently the M.S. candidate in electrical engineering in 2023 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. His current research interests include Electronic Design Automation Develop, ML, etc. 
+       He is working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)
+
 education:
-    - degree: MSc in EE
-      university: Posetech
-      time: 2024 - 
+
+    - degree: M.Sc in Electrical Engineering
+      university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
+      time: Mar 2024 - present
       details: |
-        Advisor : Prof . Seokhyeong Kang
-        
+        Advisor: Prof. Seokhyeong Kang
+      
     - degree: BSc in Physics
       university: Korea University
-      time: 2017-2024
+      time: 2017 - Feb 2024
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
 experiences:
     - role: Lead Developer
       time: 2015 - Present
