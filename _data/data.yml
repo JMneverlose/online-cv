@@ -88,14 +88,9 @@ projects:
     title: Award & Scholarshipment
    
     assignments:
-      - title: PARK HWASEOK SCHOLARSHIP
+      - title: Top Scholar of the Semester 
         link: "#hook"
-        tagline: "NOV 2020"
-
-
-      - title: INTOPS PYEONGSAN SCHOLARSHIP
-        link: "#"
-        tagline: "JAN 2021 – DEC 2022"
+        tagline: "2021,2023 (Spring)"
 
 publications:
     title: Publications
