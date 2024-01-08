@@ -58,13 +58,13 @@ education:
 
     - degree: M.Sc in Electrical Engineering
       university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
-      time: Aug 2023 - present
+      time: Mar 2024 - present
       details: |
         Advisor: Prof. Seokhyeong Kang
       
-    - degree: BSc in Electrical Engineering
-      university: POSTECH (Pohang University of Science and Technology), Republic of Korea
-      time: 2017 - Aug 2023
+    - degree: BSc in Physics
+      university: Korea University
+      time: 2017 - Feb 2024
       details: |
        
 experiences:
@@ -72,14 +72,15 @@ experiences:
       time: Dec 2021 - Feb 2022
       company: Stic Investment
       details: |
-        - Work related to layout design, area, and A/R optimization
-        - 7nm fINFET layout design using design tool
+        - Assisted AI, Semiconductor Investment (Market research, Start-up Valuation)
+        - Participated in an Investment Committee (Rebellions, Supergate, etc)
         
     - role: Intern
       time: Jan 2023 - Feb 2023
       company: UTC investment
       details: |
-        - Hyperparameter tuning to improve PPA using Multi - Objective Bayesian Optimization
+        - Assisted AI, Semiconductor Investment (Semi-V , ASIC land, etc)
+        - Engaged in IPO Evaluation Process (Optolane)
         
     
 projects:
@@ -123,10 +124,8 @@ skills:
       - name: pyTorch / Tensorflow
         level: 50%
         
-      - name: C#
-        level: 50%
 
-      - name: Verilog
+      - name: Verilog / SystemVerilog
         level: 50%
 
 footer: >
