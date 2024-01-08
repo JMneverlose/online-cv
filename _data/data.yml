@@ -7,18 +7,18 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Hyeonwoo Park
+    name: Jinmo Ahn
     tagline: Master candidate of CSDL, POSTECH in Korea
     avatar: park.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jimmy0709@postech.ac.kr
-    phone: 010 5898 5896
+    email: asi919@korea.ac.kr
+    phone: 010 2513 2131
     citizenship:
     website:
     linkedin:
     xing: 
-    github: kangnam4123
+    github: Jmneverlose
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       Hyeonwoo Park received the B.S. degree in Electrical Engineering in 2023 from Pohang University of Science and Technology (POSTECH), Pohang, South Korea. He is currently the M.S. candidate in electrical engineering in 2023 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. His current research interests include Electronic Design Automation Develop, ML, etc. 
+       Jinmo Ahn received the B.S. degree in physics in 2023 from Korea University , Seoul, South Korea. He is currently the M.S. candidate in electrical engineering in 2024 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. His current research interests include Electronic Design Automation Develop, ML, etc. 
        He is working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)
 
 education:
@@ -68,20 +68,20 @@ education:
       details: |
        
 experiences:
-    - role: SK hynix Internship Program
-      time: December 2021 - January 2021
-      company: SoC Analog IP, Sk Hynix, Bundang
+    - role: Intern
+      time: Dec 2021 - Feb 2022
+      company: Stic Investment
       details: |
         - Work related to layout design, area, and A/R optimization
         - 7nm fINFET layout design using design tool
         
-    - role: Undergraduate Research Intern
-      time: June 2022 - August 2022, March 2023 - June 2023 
-      company: CSDL(CAD & SoC Design Lab) ,POSTECH, Pohang
+    - role: Intern
+      time: Jan 2023 - Feb 2023
+      company: UTC investment
       details: |
         - Hyperparameter tuning to improve PPA using Multi - Objective Bayesian Optimization
         
-        
+    
 projects:
     title: Award & Scholarshipment
   
