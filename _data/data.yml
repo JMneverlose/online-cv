@@ -39,10 +39,10 @@ sidebar:
 
 
     interests:
-      - item: Electrical Design Automation
+      - item: AI - EDA
         link:
 
-      - item: Machine learning
+      - item: Differentiable Objective Optimization 
         link:
 
       - item: 
@@ -99,14 +99,15 @@ publications:
 #      bibendum fringilla a eu lectus.
     papers:
       - title: A Heterogeneous Graph-based Gate Sizer Integrating Graph Attention Network and Transformer
-        link: "#"
+        link: "http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=299&sca=2026"
         authors: Jinmo Ahn, Jinoh Cho, Jaemin Seo, Jaeseung Lee, Jakang Lee, and Seokhyeong Kang
         conference: 31st Asia and South Pacific Design Automation Conference (ASP-DAC),2026
 
       - title: "RL-Fill: Timing-Aware Fill Insertion Using Reinforcement Learning"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        link: "http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=276&sca=2024"
+        authors: Jinoh Cho, Seonghyeon Park, Jakang Lee, Sung-Yun Lee, Jinmo Ahn, and Seokhyeong Kang
+        conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024
+
 
 #    - title: A syntax directed compiler for Algol 60
 #       link: "#"
@@ -118,17 +119,14 @@ skills:
 
     toolset:
       - name: Python 
-        level: 40%
+        level: 80%
 
       - name: C/C++
-        level: 50%
+        level: 60%
 
-      - name: pyTorch / Tensorflow
-        level: 50%
+      - name: pyTorch
+        level: 80%
         
-
-      - name: Verilog / SystemVerilog
-        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
