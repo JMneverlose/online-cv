@@ -98,15 +98,15 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
+      - title: A Heterogeneous Graph-based Gate Sizer Integrating Graph Attention Network and Transformer
+        link: "#"
+        authors: Jinmo Ahn, Jinoh Cho, Jaemin Seo, Jaeseung Lee, Jakang Lee, and Seokhyeong Kang
+        conference: 31st Asia and South Pacific Design Automation Conference (ASP-DAC),2026
 
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "RL-Fill: Timing-Aware Fill Insertion Using Reinforcement Learning"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
 #    - title: A syntax directed compiler for Algol 60
 #       link: "#"
