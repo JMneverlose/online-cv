@@ -124,9 +124,22 @@ skills:
       - name: C/C++
         level: 60%
 
-      - name: pyTorch
-        level: 80%
+      - name: tcl
+        level: 60%
+
+    EDAs:
+      - name: Genus / Innovus 
+        level: 90%
         
+      - name: Design Compiler / ICC2 
+        level: 80%
+      
+      - name: OpenROAD 
+        level: 80%
+
+      - name: Raphael / starRC / Prime TIme / ...
+        level: 80%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
