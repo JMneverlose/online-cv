@@ -58,7 +58,7 @@ education:
 
     - degree: M.Sc in Electrical Engineering
       university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
-      time: Mar 2024 - present
+      time: Mar 2024 - Feb 2026
       details: |
         Advisor: Prof. Seokhyeong Kang
       
@@ -98,6 +98,11 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
+      - title: Differentiable Fill Insertion with Explicit Delay Optimization
+        link: "http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=299&sca=2026"
+        authors: Jinoh Cho, Jinmo Ahn, Jakang Lee, Jaeseung Lee, Seonghyeon Park and Seokhyeong Kang
+        conference: ACM/IEEE Design Automation Conference (DAC), 2026
+        
       - title: A Heterogeneous Graph-based Gate Sizer Integrating Graph Attention Network and Transformer
         link: "http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=299&sca=2026"
         authors: Jinmo Ahn, Jinoh Cho, Jaemin Seo, Jaeseung Lee, Jakang Lee, and Seokhyeong Kang
